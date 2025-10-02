@@ -1,0 +1,2 @@
+Yüklenecek videoların başına f_clip tarzı başlat ki senin yüklediğini anlabiliyim.
+mümkünse çoğu pozisyonu da train klasörüne at. mesela 10 videonun 7si train 2si value 1i de test olsun.
