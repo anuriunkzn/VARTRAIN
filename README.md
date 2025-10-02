@@ -1,5 +1,5 @@
 # VARTRAIN
-## Hakemler için eğitim ve Yapay Zeka destekli faul tespiti
+## Hakemler İçin Eğitim ve Yapay Zeka Destekli Faul Tespit Sistemi
 
 1 Ay içinde yapılacaklar:
 
