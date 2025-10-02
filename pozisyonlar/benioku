@@ -1,3 +1,3 @@
-Yüklenecek videoların başına f harfi koy. f_clip_001 tarzı başlat ki senin yüklediğini anlabiliyim.
+Yüklenecek videoların başına f harfi koy. f_clip_001 tarzı başlat ki senin yüklediğini anlayabiliyim.
 mümkünse çoğu pozisyonu da train klasörüne at. mesela 10 videonun 7si train 2si value 1i de test olsun.
 bir değişilik yaptığında description kısmında belirt.
