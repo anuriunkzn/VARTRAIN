@@ -1,6 +1,8 @@
 # VARTRAIN
 ## Hakemler İçin Eğitim ve Yapay Zeka Destekli Faul Tespit Sistemi
 
+*Pozisyonlar kısmındaki benioku'ya bak*
+
 1 Ay içinde yapılacaklar:
 
 Biraz video toplanması.
